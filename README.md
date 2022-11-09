@@ -4,6 +4,8 @@ This project is about training a model capable of classifying a tweet as being a
 
 # Setup
 
-To install the depencies needed for this project, you'll need to install conda with python3.9+, then run :
+To install the depencies needed for this project, you'll need to install conda, then run :
 ```bash
 conda env create -f environment.yml
+```
+
