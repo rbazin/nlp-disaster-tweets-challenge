@@ -13,3 +13,4 @@ dependencies:
   - pytorch 
   - pytorch-cuda=11.6
   - sklearn
+  - tqdm
