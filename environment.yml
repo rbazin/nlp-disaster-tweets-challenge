@@ -16,6 +16,8 @@ dependencies:
   - tqdm
   - jupyter
   - jupyterlab
+  - wandb
+  - optuna
   - pip
   - pip:
       - transformers
