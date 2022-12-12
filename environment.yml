@@ -1,16 +1,22 @@
-name: nlp-tweets
+name: nlp
 channels:
-  - nvidia
   - conda-forge
+  - pytorch
+  - nvidia
   - defaults
 dependencies:
   - python=3.8
-  - jupyter
-  - pandas
-  - matplotlib
   - numpy
-  - seaborn
-  - pytorch 
+  - torch
   - pytorch-cuda=11.6
-  - sklearn
+  - seaborn
+  - matplotlib
+  - pandas
+  - scikit-learn
   - tqdm
+  - jupyter
+  - jupyterlab
+  - pip
+  - pip:
+      - transformers
+      - nltk
