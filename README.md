@@ -1,8 +1,6 @@
 # NLP Disaster Tweets Classifier
 
-This project is about training a model capable of classifying a tweet as being about a distater or not. This project was conducted as final project of the ECSE526 course on Artificial Intelligence at McGill University.
-
-Our work ranked 27th / 871 on [Kaggle's NLP challenge](https://www.kaggle.com/competitions/nlp-getting-started).
+Leveraging the power of BERT finetuned on a curated corpus of tweets for enriched Natural Language Understanding, our project achieved to reach the 27th spot among 871 contenders in [Kaggle's NLP challenge](https://www.kaggle.com/competitions/nlp-getting-started). This achievement was realized as part of the final project for the AI course ECSE526, at McGill University.
 
 # Setup
 
